@@ -1,2 +1,2 @@
 # Cyberspot
-Learning penetration testing..
+Learning spot..
